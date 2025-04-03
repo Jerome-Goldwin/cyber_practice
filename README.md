@@ -1,6 +1,14 @@
 # 🛡️ Cyber Practice  
 A collection of my cybersecurity practice, walkthroughs, and challenges.  
 
+## ⚠️ Disclaimer  
+
+This repository is intended **solely for educational and ethical cybersecurity research purposes**. The information provided here should **only be used in environments where you have explicit permission**.  
+
+The author **does not encourage, promote, or take responsibility for any illegal activities** carried out using the content of this repository. Unauthorized access to systems is illegal and punishable by law in many jurisdictions.  
+
+By using this material, you agree to use it **responsibly, ethically, and within the bounds of the law**.  
+
 ## 📌 About This Repository  
 This repository contains my hands-on exploration of cybersecurity concepts, including:  
 - Web security vulnerabilities  
