@@ -64,6 +64,7 @@ Wordlists contain predefined words to test for hidden directories and files.
 Using `ffuf` to find hidden directories:  
 ```bash
 ffuf -u https://target-site.com/FUZZ -w /usr/share/wordlists/common.txt
+```
 
 ## 🎯 Key Takeaways
 - Manual, Automated, and OSINT techniques can reveal sensitive data.
