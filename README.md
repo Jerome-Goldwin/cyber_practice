@@ -24,5 +24,5 @@ This repository is for educational purposes only. Any misuse of the information 
 
 🔗 **Follow My Cybersecurity Journey**  
 🚀 [GitHub Profile](https://github.com/Jerome-Goldwin)  
-🌐 [TryHackMe Profile](#) (Add your THM profile link if you want)  
+🌐 [TryHackMe Profile](https://tryhackme.com/p/jerome.goldwin)  
 
